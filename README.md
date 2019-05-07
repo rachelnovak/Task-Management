@@ -10,8 +10,8 @@
 
 ## Authors
 
+* **Rachel Cagan** - *a depeloper* - (rachel.novak@seldatinc.com)
 * **Tamar Schenkolewski** - *a depeloper* - (tamar5161718@gmail.com)
-* **Rachel Cagan - Novak** - *a depeloper* - (rachel.novak@seldatinc.com)
 
 ## Description
  
